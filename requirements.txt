@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+timm
+pillow
+pymupdf
+openpyxl
+anthropic[bedrock]
